@@ -1,4 +1,5 @@
-{"homepage": "https://unipalette.github.io/dice-game",
+{
+  "homepage": "https://unipalette.github.io/dice-game",
   "name": "dice-app",
   "version": "0.1.0",
   "private": true,
